@@ -1,4 +1,3 @@
-# Readme.md
 
 ![](https://logodix.com/logo/1078457.png)
 
@@ -11,26 +10,20 @@
 ### This is the legendary Titanic ML problem, our task is to use machine learning to create a model that predict which passengers survived the Titanic shipwreck.
 <br>
 
->### CHALLENGE
-<br>
+## 1. CHALLENGE 🚀
  
 #### The sinking of the Titanic is one of the most infamous shipwrecks in history.
-<br>
 
 #### On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-<br>
 
 #### While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
-<br>
-
 #### In this challenge, we need to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). 
 
 <br>
 
->### DATASET
-<BR>
+## 2. DATASET 💻
 
-### Overview
+> Overview
 <br>
 
 #### The data has been split into two groups:
@@ -41,19 +34,19 @@
 
 #### The training set should be used to build our machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Our model will be based on “features” like passengers’ gender and class. We can also use feature engineering to create new features.
 
-
 <br>
 
 #### The test set should be used to see how well our model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is our job to predict these outcomes. For each passenger in the test set, use the model we trained to predict whether or not they survived the sinking of the Titanic.
 <br>
 
-<img src="variables.png">
+![variables](https://user-images.githubusercontent.com/61913116/120275824-81679480-c2cf-11eb-9c58-7a02734b6fb5.png)
+
 
 For complete detailed view of problem visit : https://www.kaggle.com/c/titanic/
 
 <br>
 
->### DEPLOYMENT
+## 3. DEPLOYMENT (Click on rocket to launch project)
 <BR>
 
 ### The model is deployed on Heroku which is a cloud platform as a service (PaaS).
